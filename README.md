@@ -1,2 +1,3 @@
 # Introduction
-My Intro
+Name: Usman Wattoo
+Computer Engineer
